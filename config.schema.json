@@ -1,5 +1,5 @@
 {
-  "pluginAlias": "ExampleHomebridgePlugin",
+  "pluginAlias": "DewPointSensor",
   "pluginType": "platform",
   "singular": true,
   "schema": {
