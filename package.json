@@ -3,14 +3,13 @@
   "displayName": "Homebridge Dew Point Sensor",
   "type": "module",
   "version": "1.0.0",
-  "private": true,
   "description": "A short description about what your plugin does.",
   "author": "Your Name",
   "license": "Apache-2.0",
   "homepage": "https://github.com/eric-peiffer/homebridge-dew-point-sensor/blob/latest/README.md",
   "repository": {
     "type": "git",
-    "url": "https://github.com/eric-peiffer/homebridge-dew-point-sensor"
+    "url": "git+https://github.com/eric-peiffer/homebridge-dew-point-sensor.git"
   },
   "bugs": {
     "url": "https://github.com/eric-peiffer/homebridge-dew-point-sensor/issues"
